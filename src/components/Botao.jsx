@@ -25,3 +25,4 @@ export default function Botao({ aluno, ativo, onClick }) {
     </button>
   );
 }
+  
